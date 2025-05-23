@@ -6,6 +6,7 @@ The PERSONALITY ASSESSMENT Course Breakdown
 
 Screenshots of the completion of the PERSONALITY ASSESMENT short course
 
-![image](https://github.com/user-attachments/assets/6b18d263-8a74-4bfc-a8cc-818f65fdffeb)
+![image](https://github.com/user-attachments/assets/5b1207e6-e324-4bab-89fe-fefbb3d950ed)
 
-![image](https://github.com/user-attachments/assets/db1624c4-ec2f-4a91-8ce4-2a194648f247)
+![image](https://github.com/user-attachments/assets/c996f247-ac20-4afa-a705-6e2444bdb86b)
+
