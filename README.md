@@ -4,7 +4,7 @@ The PERSONALITY ASSESSMENT Course Breakdown
 * Primary goals of personality and career matching
 * Personality types and association with careers  
 
-Screenshots of the completeion of the PERSONALITY ASSESMENT short course
+Screenshots of the completion of the PERSONALITY ASSESMENT short course
 
 ![image](https://github.com/user-attachments/assets/d503b393-2bde-4f07-b79d-dca6c1621e60)
 
